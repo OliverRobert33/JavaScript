@@ -1,0 +1,11 @@
+Cypress
+Es una herramienta para hacer testing de la "siguiente generacion" ofrece pruebas que antes 
+no se podia hacer.
+
+Cuando escribes pruebas son de codigo, pero no sabes que es lo que el usuario experimenta.
+
+Tipos de Prueba de Cypress
+Es considerado end-to-end pero tambien ofrece pruebas unitarias y de integracion
+
+Funciona en el navegador, por lo tanto puedes probar con Cypress proyectos hechos en Java
+,c#, Python, PHP, Node, React o VuejJS

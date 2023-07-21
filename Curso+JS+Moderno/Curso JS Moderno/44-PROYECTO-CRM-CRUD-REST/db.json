@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "Cecilia Remache",
+      "email": "cecilia@cecilia.com",
+      "telefono": "0992049174",
+      "empresa": "Novedades Ahynara",
+      "id": 27
+    },
+    {
+      "nombre": "Oliver Roberto Saraguro Remache",
+      "email": "correo@correo.com",
+      "telefono": "0991249995",
+      "empresa": "Telconet",
+      "id": 28
+    },
+    {
+      "nombre": "Elian Saraguro",
+      "email": "elian@elian.com",
+      "telefono": "elian@elian.com",
+      "empresa": "Josue",
+      "id": 29
+    },
+    {
+      "nombre": "Roberto Saraguro",
+      "email": "roberto@roberto.com",
+      "telefono": "0992049174",
+      "empresa": "FAMILIA SARAGURO",
+      "id": 30
+    }
+  ]
+}

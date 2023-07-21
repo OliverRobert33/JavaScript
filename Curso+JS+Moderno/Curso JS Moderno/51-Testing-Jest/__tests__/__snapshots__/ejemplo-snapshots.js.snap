@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testisng al usuario Es Oliver Saraguro 1`] = `
+{
+  "carrera": "Ingeniero en Informatica",
+  "nombre": "Oliver Saraguro Remache",
+  "saldo": 1000,
+}
+`;
